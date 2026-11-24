@@ -29,4 +29,8 @@ Python 3
 muhammed aslam
 
 ## License
+<<<<<<< HEAD
 MIT
+=======
+MIT
+>>>>>>> 309b0a720a0aee74fcdd761c473a83a2adf2050a
